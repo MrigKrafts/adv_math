@@ -9,15 +9,18 @@ This module currently has one out of the many mathematical operational modes (al
 
 So to use any function you need to:
 
-import /module/
-/mode/./function/
+from adv_math *
+
+(mode).(function)
 
 For example:
 
 // Finding HCF of three numbers (5, 40, 75)
   from adv_math import arithmetic
   
-  print(Factor(5, 40, 75).HCF())
+  hcf = Factor(5, 40, 75).HCF()
+  
+  print(hcf)
   
 # Other classes in this library
   
