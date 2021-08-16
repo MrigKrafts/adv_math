@@ -17,8 +17,7 @@ For example:
 // Finding HCF of three numbers (5, 40, 75)
   from adv_math import arithmetic
   
-  hcf = Factor(5, 40, 75).HCF()
-  print(hcf)
+  print(Factor(5, 40, 75).HCF())
   
 # Other classes in this library
   
