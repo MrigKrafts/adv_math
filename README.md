@@ -9,8 +9,8 @@ This module currently has one out of the many mathematical operational modes (al
 
 So to use any function you need to:
 
-import <module>
-<mode>.<function>
+import /module/
+/mode/./function/
 
 For example:
 
